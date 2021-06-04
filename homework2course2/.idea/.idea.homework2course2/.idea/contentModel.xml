@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dimon\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dimon\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_homework2course2.-292145257.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dimon\source\repos\Репозиторий\Algoritm\homework2course2" t="IncludeFlat">
+      <e p="homework2course2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="homework2course2.csproj" t="IncludeRecursive" />
+        <e p="Node.cs" t="Include" />
+        <e p="Noderealize.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="homework2course2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="Microsoft.Diagnostics.Tracing.TraceEvent.2.0.61\lib\native\amd64" t="Include">
+          <e p="KernelTraceControl.dll" t="Include" />
+          <e p="msdia140.dll" t="Include" />
+          <e p="msvcp140.dll" t="Include" />
+          <e p="vcruntime140.dll" t="Include" />
+          <e p="vcruntime140_1.dll" t="Include" />
+        </e>
+        <e p="Microsoft.Diagnostics.Tracing.TraceEvent.2.0.61\lib\native\x86" t="Include">
+          <e p="KernelTraceControl.dll" t="Include" />
+          <e p="KernelTraceControl.Win61.dll" t="Include" />
+          <e p="msdia140.dll" t="Include" />
+          <e p="msvcp140.dll" t="Include" />
+          <e p="vcruntime140.dll" t="Include" />
+        </e>
+        <e p="Microsoft.Diagnostics.Tracing.TraceEvent.2.0.61\lib\net45\OSExtensions.dll" t="Include" />
+        <e p="Microsoft.Diagnostics.Tracing.TraceEvent.2.0.61\lib\netstandard1.6\Dia2Lib.dll" t="Include" />
+        <e p="Microsoft.Diagnostics.Tracing.TraceEvent.2.0.61\lib\netstandard1.6\TraceReloggerLib.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.1.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.1.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.1.1\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+        <e p="MSTest.TestAdapter.2.1.1\build\_common\ru" t="Include">
+          <e p="Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll" t="Include" />
+          <e p="Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll" t="Include" />
+        </e>
+      </e>
+      <e p="quest2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BynarySearch.cs" t="Include" />
+        <e p="GenarateArrays.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="quest2.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="UnitTestProjectbyNode" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+        <e p="UnitTestProjectbyNode.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
