@@ -1,0 +1,6 @@
+|              Method |     Mean |   Error |  StdDev |
+|-------------------- |---------:|--------:|--------:|
+|       PointDistance | 207.1 us | 2.34 us | 2.07 us |
+|  PointDistanceShort | 262.6 us | 2.84 us | 2.65 us |
+| PointDistanceDouble | 271.2 us | 2.15 us | 2.01 us |
+|  PointDistanceFloat | 215.7 us | 0.97 us | 0.86 us |
