@@ -1,0 +1,4 @@
+|         Method |       Mean |    Error |   StdDev |
+|--------------- |-----------:|---------:|---------:|
+|        Hashset |   889.6 ms | 11.06 ms | 10.35 ms |
+| StandartSearch | 1,850.8 ms | 36.48 ms | 47.43 ms |
